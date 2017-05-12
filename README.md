@@ -1,1 +1,1 @@
-# idle
+# Idle Game
